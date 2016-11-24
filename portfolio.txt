@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--
+      Author:Gagandeep Kaur 
+      Date: 11/15/2016
+			Description:My portfolio!
+   -->
+
+      <meta charset="UTF-8" />
+      <title>Hamilton Conference Center</title>
+      <script src="modernizr-1.5.js"></script>
